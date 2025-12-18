@@ -2,7 +2,7 @@ name: Go setup
 
 on:
   push:
-    branches: [ "a360-python" ]
+    branches: [ "a360-python", "a360_realm"]
   pull_request:
     branches: [ "a360-python" ]
 
